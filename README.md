@@ -1,6 +1,6 @@
 # SHAP explainer for XGBoost Package
 
-+ Notebooks to demo explaining XGBoost model using SHAP, with dataset from Forbes 2013 company list.
++ Notebooks to demo explaining [XGBoost](https://xgboost.readthedocs.io/) models using [SHAP](https://github.com/slundberg/shap), with dataset from Forbes 2013 company list.
 
 ### :construction: How to build
 + `python -m venv venv` to create python virtual environment.
